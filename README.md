@@ -1,4 +1,5 @@
 HOW TO RUN ON LOCALLY : 
+
           1 . Create a folder as any name.
           2 . Open that folder in any code editor (vs code).
           3 . Open terminal ( ctrl + ~ ) on code editor.
@@ -15,7 +16,6 @@ HOW TO RUN ON LOCALLY :
                simply paste this code in .env file .
           PORT = 5000              
           CONN_STR =mongodb+srv://4727yesuraju:rough@cluster0.wbclvtg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-          
           9 . After in terminal (in crud folder as root folder) type this command to run server.
                       npm i                        (installing all  dependencies)
                       npm run dev         (to run server)
